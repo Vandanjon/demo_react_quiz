@@ -1,0 +1,112 @@
+[
+	{
+		"id": 1,
+		"question": "Vous rencontrez un RadCafard, vous :",
+		"image": "radroach.jpg",
+		"options": [
+			{ "text": "Utilisez un lance-flammes", "correct": true },
+			{ "text": "Tentez de négocier", "correct": false },
+			{ "text": "Appelez votre mère", "correct": false },
+			{ "text": "Faites le mort", "correct": false }
+		]
+	},
+	{
+		"id": 2,
+		"question": "Vous trouvez une boîte de conserve non étiquetée, vous :",
+		"image": "canned_food.jpg",
+		"options": [
+			{ "text": "La mangez immédiatement", "correct": false },
+			{ "text": "La testez sur un RadRat", "correct": true },
+			{ "text": "L'offrez à un Super Mutant", "correct": false },
+			{ "text": "La gardez comme souvenir", "correct": false }
+		]
+	},
+	{
+		"id": 3,
+		"question": "Un marchand ambulant vous propose une mystérieuse potion, vous :",
+		"image": "mysterious_potion.jpg",
+		"options": [
+			{ "text": "L'achetez sans poser de questions", "correct": false },
+			{ "text": "Demandez une réduction", "correct": false },
+			{ "text": "Lui échangez un Nuka-Cola", "correct": true },
+			{ "text": "Passez votre chemin", "correct": false }
+		]
+	},
+	{
+		"id": 4,
+		"question": "Vous croisez un Protectron défectueux, vous :",
+		"image": "protectron.jpg",
+		"options": [
+			{ "text": "Essayez de le réparer", "correct": true },
+			{ "text": "Lui demandez l'heure", "correct": false },
+			{ "text": "Lui lancez une pierre", "correct": false },
+			{ "text": "Fuyez en courant", "correct": false }
+		]
+	},
+	{
+		"id": 5,
+		"question": "Un Deathclaw vous barre la route, vous :",
+		"image": "deathclaw.jpg",
+		"options": [
+			{ "text": "Lui propose un câlin", "correct": false },
+			{ "text": "Utilisez une grenade", "correct": true },
+			{ "text": "Faites semblant d'être un rocher", "correct": false },
+			{ "text": "Lui chantez une berceuse", "correct": false }
+		]
+	},
+	{
+		"id": 6,
+		"question": "Vous trouvez un Pip-Boy abandonné, vous :",
+		"image": "pipboy.jpg",
+		"options": [
+			{ "text": "Le mettez immédiatement", "correct": true },
+			{ "text": "Le vendez au marché noir", "correct": false },
+			{ "text": "Le donnez à un ami", "correct": false },
+			{ "text": "Le laissez sur place", "correct": false }
+		]
+	},
+	{
+		"id": 7,
+		"question": "Un groupe de pillards vous attaque, vous :",
+		"image": "raiders.jpg",
+		"options": [
+			{ "text": "Négociez un partage de loot", "correct": false },
+			{ "text": "Utilisez un Fat Man", "correct": true },
+			{ "text": "Faites semblant d'être un des leurs", "correct": false },
+			{ "text": "Leur offrez un Nuka-Cola", "correct": false }
+		]
+	},
+	{
+		"id": 8,
+		"question": "Vous trouvez une station de radio abandonnée, vous :",
+		"image": "radio_station.jpg",
+		"options": [
+			{ "text": "Diffusez votre playlist préférée", "correct": false },
+			{ "text": "Appelez à l'aide", "correct": false },
+			{ "text": "Lancez une émission de survie", "correct": true },
+			{ "text": "La détruisez par accident", "correct": false }
+		]
+	},
+	{
+		"id": 9,
+		"question": "Un Mr. Handy vous propose de cuisiner pour vous, vous :",
+		"image": "mr_handy.jpg",
+		"options": [
+			{ "text": "Acceptez avec enthousiasme", "correct": true },
+			{ "text": "Lui demandez un plat végétarien", "correct": false },
+			{ "text": "Lui proposez de cuisiner ensemble", "correct": false },
+			{ "text": "Refusez poliment", "correct": false }
+		]
+	},
+	{
+		"id": 10,
+		"question": "Vous découvrez une cache de Nuka-Cola Quantum, vous :",
+		"image": "nuka_cola.jpg",
+		"options": [
+			{ "text": "En buvez immédiatement", "correct": false },
+			{ "text": "La cachez pour plus tard", "correct": true },
+			{ "text": "La partagez avec un ami", "correct": false },
+			{ "text": "La vendez à prix d'or", "correct": false }
+		]
+	}
+]
